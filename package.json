@@ -1,0 +1,31 @@
+{
+  "name": "increment-fire",
+  "version": "0.8.0",
+  "description": "A simple way of keeping track of asynchronous events.",
+  "keywords":[
+    "increment",
+    "promises",
+    "events",
+    "asynchronous",
+    "async"
+  ],
+  "author": "Dan Larsen",
+  "maintainers": [{
+    "name": "Dan Larsen",
+    "email": "dan@techba.se",
+    "url": "http://github.com/morphar"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/morphar/increment-fire.git"
+  },
+  "github": "http://github.com/morphar/increment-fire",
+  "bugs": {
+    "url": "http://github.com/morphar/increment-fire/issues"
+  },
+  "license": "MIT",
+  "main": "./index.js",
+  "engines": {
+    "node": ">=0.6.6"
+  }
+}
