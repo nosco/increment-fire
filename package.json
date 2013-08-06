@@ -17,11 +17,11 @@
   }],
   "repository": {
     "type": "git",
-    "url": "http://github.com/morphar/increment-fire.git"
+    "url": "http://github.com/nosco/increment-fire.git"
   },
-  "github": "http://github.com/morphar/increment-fire",
+  "github": "http://github.com/nosco/increment-fire",
   "bugs": {
-    "url": "http://github.com/morphar/increment-fire/issues"
+    "url": "http://github.com/nosco/increment-fire/issues"
   },
   "license": "MIT",
   "main": "./index.js",
